@@ -12,7 +12,9 @@ import java.util.Scanner;
  * @author Guille
  */
 public class Ejercicio17bis {
-
+//     Dibujar un cuadrado de N elementos por lado utilizando el carácter “*”.
+//     Por ejemplo, si el cuadrado tiene 4 elementos por lado se deberá dibujar
+//     lo siguiente:
     /**
      * @param args the command line arguments
      */
